@@ -1,0 +1,63 @@
+
+body{
+
+	background-color: #efefef;
+	
+
+}
+a:{
+	color: #ffffff !important;
+}
+a:hover{
+	color: #ff383f !important;
+	text-decoration: none !important;
+	cursor: pointer !important;
+}
+
+
+
+.time-text{
+
+	color: #545454;
+	font-style: italic;
+
+}
+.contact{
+	padding: 5px;
+	text-align: center;
+	color: #ffffff;
+	background-color: #ff383f ;
+
+}
+
+.sky-background{
+
+	background-color: #caebf2;
+
+}
+.neutral-background{
+
+	background-color: #efefef;
+
+}
+.carbon-background{
+
+	background-color: #a9a9a9;
+
+}
+footer{
+
+	
+	height: 50px;
+	color: #caebf2 !important ;
+	font-size: 18px;
+}
+ footer a{
+
+ 	color: #caebf2 !important;
+ 	background-color: transparent !important;
+ }
+
+
+
+
