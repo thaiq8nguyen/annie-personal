@@ -57,7 +57,7 @@
                         </div>
                         <div class = "col-md-6">
                             <div class = "float-right">
-                                <h6 class = "time-text">When</h6>
+                                <h6 class = "time-text">Exp. Dec. 2017</h6>
                             </div>
                             
                         </div>
@@ -70,7 +70,7 @@
                         </div>
                         <div class = "col-md-2">
                             <div class = "float-right">
-                                <h6 class = "time-text">When</h6>
+                                <h6 class = "time-text">Exp. Feb. 2020</h6>
                             </div>
                             
                         </div>
@@ -83,7 +83,7 @@
                         </div>
                         <div class = "col-2">
                             <div class = "float-right">
-                                <h6 class = "time-text">When</h6>
+                                <h6 class = "time-text">Exp. Aug. 2018</h6>
                             </div>
                             
                         </div>
