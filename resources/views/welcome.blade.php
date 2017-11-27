@@ -122,6 +122,16 @@
                     <hr>
                     <div class = "row">
                         <div class = "col-md-10">
+                            <h6>Vicky Chang and Family Scholarship Program</h6>
+                        </div>
+                        <div class = "col-md-2">
+                            <div class = "float-right">
+                                <h6 class = "time-text">Dec. 2017</h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div class = "row">
+                        <div class = "col-md-10">
                             <h6>Michael D. Antonovich RN Student Scholarship, County of Los Angeles Department of Health</h6>
                         </div>
                         <div class = "col-md-2">
