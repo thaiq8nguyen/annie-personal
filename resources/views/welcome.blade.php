@@ -17,7 +17,7 @@
                 <div class="card d-none d-md-block">
                     <img class="card-img-top" src = "{{ asset('images/annie_portrait.png') }}" alt="annie">
                     <div class="card-body">
-                        <h2 class = "card-title text-center display-3 tk-mr-eaves-xl-modern">Annie Le</h2>
+                        <h2 class = "card-title text-center display-4 tk-mr-eaves-xl-modern">Annie Le, RN</h2>
                         <p class = "card-text contact"><i class = "fa fa-envelope-o fa-lg"></i>&nbsp;anniele1907[at]gmail[dot]com</p>
                     </div>
                 </div>
@@ -27,14 +27,17 @@
                 <div class="card mb-3 d-block d-sm-none">
                     <img class="card-img-top" src = "{{ asset('images/annie_portrait.png') }}" alt="annie">
                     <div class="card-body">
-                        <h2 class = "card-title text-center display-3 tk-mr-eaves-xl-modern">Annie Le</h2>
-                        <p class = "card-text contact"><i class = "fa fa-envelope-o fa-lg d-none d-sm-block"></i>&nbsp;anniele1907[at]gmail[dot]com</p>
+                        <h2 class = "card-title text-center display-3 tk-mr-eaves-xl-modern">Annie Le, RN</h2>
+                        <p class = "card-text contact"><i class = "fa fa-envelope-o fa-lg d-none d-sm-block"></i>&nbsp;anniele1907[at]gmail[dot]co</p>
                     </div>
                 </div>
                 <div class = "card sky-background">
                     <div class = "card-body">
                 
-                        <p class = "card-text">Annie is an aspiring nursing student who will complete her nursing associate degree in December 2017. She is an honor student who has devoted a lot of time toward her education while maintaining a full time job.  She wishes to apply her earned skills and knowledge to assist her employers to handle many medical situations.</p>
+                        <p class = "card-text">Annie is an aspiring nurse
+                            who recently completed her nursing associate degree in December 2017 and passed an NCLEX examination in March 2018.
+                            She was an honor student who had devoted a lot of time toward her education while maintaining a full time job.
+                            She wishes to apply her earned skills and knowledge to assist her employers in many capacities.</p>
                         <p class = "card-text">
                     <h4 class = "tk-nimbus-sans"><i class = "fa fa-certificate fa-lg"></i>&nbsp;Licensure and Certitications</h4>
                     <hr>
@@ -44,7 +47,7 @@
                         </div>
                         <div class = "col-4">
                             <div class = "float-right">
-                                <h6 class = "time-text">Expected Feburary 2018</h6>
+                                <h6 class = "time-text">Oct. 2019</h6>
                             </div>
                             
                         </div>
@@ -53,11 +56,11 @@
                     </div>
                     <div class = "row justify-content-between mt-3">
                         <div class = "col-md-6">
-                            <h6>C.P.R. Certification</h6>
+                            <h6>BSL Certification</h6>
                         </div>
                         <div class = "col-md-6">
                             <div class = "float-right">
-                                <h6 class = "time-text">Exp. Dec. 2017</h6>
+                                <h6 class = "time-text">Jan. 2019</h6>
                             </div>
                             
                         </div>
@@ -70,7 +73,7 @@
                         </div>
                         <div class = "col-md-2">
                             <div class = "float-right">
-                                <h6 class = "time-text">Exp. Feb. 2020</h6>
+                                <h6 class = "time-text">Feb. 2020</h6>
                             </div>
                             
                         </div>
@@ -83,7 +86,7 @@
                         </div>
                         <div class = "col-2">
                             <div class = "float-right">
-                                <h6 class = "time-text">Exp. Aug. 2018</h6>
+                                <h6 class = "time-text">Aug. 2018</h6>
                             </div>
                             
                         </div>
@@ -94,29 +97,56 @@
                 <p class = "card-text">
                     <h4 class = "tk-nimbus-sans"><i class = "fa fa-graduation-cap fa-lg"></i>&nbsp; Education</h4>
                     <hr>
-                    <div class="row">
-                        <div class = "col-md-8">
-                            <h5>Los Angeles Valley College, California</h5>
-                            <p>Associate Degree in Nursing</p>
+                    <div class = "row justify-content-between">
+                        <div class = "col-7">
+                            <h5>University of Phoenix </h5>
+                            <p>Bachelor of Nursing</p>
                             <ul>
-                                <li>Current GPA: <span class = "text-danger">3.7</span></li>
+                                <li>Current GPA: <span class = "text-danger">3.8</span></li>
+                            </ul>
+                        </div>
+                        <div class = "col-5">
+                            <div class = "float-right">
+                                <h6 class = "time-text">Expected Graduation: Jul. 2018</h6>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class = "row justify-content-between mt-3">
+                        <div class = "col-8">
+                            <h5>Los Angeles Valley College, California </h5>
+                            <p>Associate of Nursing</p>
+                            <ul>
+                                <li>GPA: <span class = "text-danger">3.69</span></li>
                                 <li>Dean's Honor List: Fall 2016
                             </ul>
-                            <h5>Los Angeles Pierce College, California</h5>
+                        </div>
+                        <div class = "col-4">
+                            <div class = "float-right">
+                                <h6 class = "time-text">Jan. 2015 - Dec. 2017</h6>
+                            </div>
+
+                        </div>
+
+
+                    </div>
+                    <div class = "row justify-content-between mt-3">
+                        <div class = "col-8">
+                            <h5>Los Angeles Pierce College, California </h5>
                             <ul>
                                 <li>President's Honor List: 3 semesters</li>
                                 <li>Dean's Honor List: 5 semesters</li>
                             </ul>
                         </div>
-                        <div class = "col-md-4">
+                        <div class = "col-4">
                             <div class = "float-right">
-                                <h6 class = "time-text">Graduation: Dec. 2017</h6>
+                                <h6 class = "time-text">Aug. 2010 - Dec. 2013</h6>
                             </div>
+
                         </div>
                     </div>
-                    
-                    
                 </p>
+
                 <p class = "card-text">
                     <h4 class = "tk-nimbus-sans"><i class = "fa fa-trophy fa-lg"></i>&nbsp; Scholarships</h4>
                     <hr>
@@ -168,7 +198,7 @@
                         </div>
                         <div class = "col-md-4">
                             <div class = "float-right">
-                                <h6 class = "time-text">Fall 2017, Fall 2016, Spring 2016</span></h6>
+                                <h6 class = "time-text">Fall 2017, Fall 2016, Spring 2016></h6>
                             </div>
                             
                         </div>
