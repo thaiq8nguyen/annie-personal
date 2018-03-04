@@ -180,9 +180,6 @@
                             </div>
                         </div>
                     </div>
-                    
-
-                    
                 <p>
                 <p class = "card-text">
                     <h4 class = "tk-nimbus-sans"><i class = "fa fa-heart fa-lg"></i>&nbsp;Clinical Experience</h4>
@@ -191,14 +188,10 @@
                         <div class = "col-md-8">
                             <h6>Valley Presbyterian Hospital, Los Angeles</h6>
                             <p>Position: Student Nurse</p>
-                            <!-- <ul>
-                                <li>Job</li>
-                                <li>Job</li>
-                            </ul> -->
                         </div>
                         <div class = "col-md-4">
                             <div class = "float-right">
-                                <h6 class = "time-text">Fall 2017, Fall 2016, Spring 2016></h6>
+                                <h6 class = "time-text">Fall 2017, Fall 2016, Spring 2016</h6>
                             </div>
                             
                         </div>
