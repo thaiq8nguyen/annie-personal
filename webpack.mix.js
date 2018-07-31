@@ -13,7 +13,7 @@ let mix = require('laravel-mix');
 
  mix.browserSync({
     open:'external',
-    proxy:'local.annie.dev:8888'
+    proxy:'local.annie.test:8888'
 });
 
 mix.js('resources/assets/js/main.js', 'public/js');

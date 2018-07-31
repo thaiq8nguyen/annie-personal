@@ -282,6 +282,20 @@
                     <hr>
                     <div class = "row justify-content-between">
                         <div class = "col-md-8">
+                            <h6>Los Angeles County + USC Medical Center </h6>
+                            <p>Pediatric Registered Nurse I</p>
+                            <ul>
+                                <li>Provides individualized and specialized nursing care to children</li>
+                                <li>Observes patient's response to interventions and treatments and monitors for side effects of medication administration.</li>
+                            </ul>
+                        </div>
+                        <div class = "col-md-4">
+                            <div class = "float-right">
+                                <h6 class = "time-text">July. 2018 to Present</span></h6>
+                            </div>
+                            
+                        </div>
+                        <div class = "col-md-8">
                             <h6>Sugar Nails, Los Angeles</h6>
                             <p>Manicurist Technician</p>
                             <ul>
@@ -291,7 +305,7 @@
                         </div>
                         <div class = "col-md-4">
                             <div class = "float-right">
-                                <h6 class = "time-text">Nov. 2013 to Present</span></h6>
+                                <h6 class = "time-text">Nov. 2013 to 2018</span></h6>
                             </div>
                             
                         </div>
