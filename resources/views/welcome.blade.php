@@ -27,7 +27,7 @@
                 <div class="card mb-3 d-block d-sm-none">
                     <img class="card-img-top" src = "{{ asset('images/annie_portrait.png') }}" alt="annie">
                     <div class="card-body">
-                        <h2 class = "card-title text-center display-2 tk-mr-eaves-xl-modern">Annie Le, RN, PHN</h2>
+                        <h2 class = "card-title text-center display-3 tk-mr-eaves-xl-modern">Annie Le, RN, PHN</h2>
                         <p class = "card-text contact"><i class = "fa fa-envelope-o fa-lg d-none d-sm-block"></i>&nbsp;anniele1907[at]gmail[dot]co</p>
                     </div>
                 </div>
@@ -43,7 +43,7 @@
                     <hr>
                     <div class = "row justify-content-between">
                         <div class = "col-8">
-                            <h6>Public Heath Nurse, California Board of Nursing</h6>
+                            <h6>Public Health Nurse, California Board of Nursing</h6>
                         </div>
                         <div class = "col-4">
                             <div class = "float-right">
