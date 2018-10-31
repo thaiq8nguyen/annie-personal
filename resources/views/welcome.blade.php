@@ -27,7 +27,7 @@
                 <div class="card mb-3 d-block d-sm-none">
                     <img class="card-img-top" src = "{{ asset('images/annie_portrait.png') }}" alt="annie">
                     <div class="card-body">
-                        <h2 class = "card-title text-center display-3 tk-mr-eaves-xl-modern">Annie Le, RN</h2>
+                        <h2 class = "card-title text-center display-2 tk-mr-eaves-xl-modern">Annie Le, RN, PHN</h2>
                         <p class = "card-text contact"><i class = "fa fa-envelope-o fa-lg d-none d-sm-block"></i>&nbsp;anniele1907[at]gmail[dot]co</p>
                     </div>
                 </div>
@@ -42,6 +42,19 @@
                     <h4 class = "tk-nimbus-sans"><i class = "fa fa-certificate fa-lg"></i>&nbsp;Licensure and Certitications</h4>
                     <hr>
                     <div class = "row justify-content-between">
+                        <div class = "col-8">
+                            <h6>Public Heath Nurse, California Board of Nursing</h6>
+                        </div>
+                        <div class = "col-4">
+                            <div class = "float-right">
+                                <h6 class = "time-text">Jul. 2021</h6>
+                            </div>
+                            
+                        </div>
+
+
+                    </div>
+                    <div class = "row justify-content-between mt-3">
                         <div class = "col-8">
                             <h6>Registered Nurse, California Board of Nursing</h6>
                         </div>
@@ -86,7 +99,7 @@
                         </div>
                         <div class = "col-2">
                             <div class = "float-right">
-                                <h6 class = "time-text">Aug. 2018</h6>
+                                <h6 class = "time-text">Pending Renewal</h6>
                             </div>
                             
                         </div>
@@ -99,6 +112,18 @@
                     <hr>
                     <div class = "row justify-content-between">
                         <div class = "col-7">
+                            <h5>United States University </h5>
+                            <p>Family Nurse Practioner</p>
+                        </div>
+                        <div class = "col-5">
+                            <div class = "float-right">
+                                <h6 class = "time-text">Expected Graduation Dec. 2021</h6>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class = "row justify-content-between">
+                        <div class = "col-7">
                             <h5>University of Phoenix </h5>
                             <p>Bachelor of Nursing</p>
                             <ul>
@@ -107,7 +132,7 @@
                         </div>
                         <div class = "col-5">
                             <div class = "float-right">
-                                <h6 class = "time-text">Expected Graduation: Jul. 2018</h6>
+                                <h6 class = "time-text">Sept.2017 - Jul. 2018</h6>
                             </div>
 
                         </div>
