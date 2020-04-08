@@ -1,4 +1,4 @@
-let mix = require('laravel-mix');
+let mix = require("laravel-mix");
 
 /*
  |--------------------------------------------------------------------------
@@ -11,10 +11,6 @@ let mix = require('laravel-mix');
  |
  */
 
- mix.browserSync({
-    open:'external',
-    proxy:'local.annie.test:8888'
-});
-
-mix.js('resources/assets/js/main.js', 'public/js');
-   
+mix.react("resources/assets/js/app.js", "public/js")
+	.sass("resources/assets/sass/app.scss", "public/css")
+	.browserSync("127.0.0.1:8000");

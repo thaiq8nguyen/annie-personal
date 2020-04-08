@@ -1,19 +1,15 @@
 <!DOCTYPE html>
 <html lang = "en">
 <head>
-    <title>Annie</title>
+    <title>Annie Le</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel = "stylesheet" href = "{{ asset('css/bootstrap.css')}}">
-    <link rel="stylesheet" type = "text/css" href = "{{ asset('css/font-awesome.css')}}">
-    <link rel = "stylesheet" href = "{{ asset('css/main.css')}}">
-    <script src="https://use.typekit.net/nax5cff.js"></script>
-    <script>try{Typekit.load({ async: true });}catch(e){}</script>
+    <meta name="csrf-token" content="{{ csrf_token() }}">
 </head>
 <body>
-    <div class = "container">
+    <!-- <div class = "container">
         <div class ="row mt-4 mb-4">
             <div class = "col-md-4">
-                <!--Visible on medium display and up only-->
+                
                 <div class="card d-none d-md-block">
                     <img class="card-img-top" src = "{{ asset('images/annie_portrait.png') }}" alt="annie">
                     <div class="card-body">
@@ -23,7 +19,7 @@
                 </div>
             </div>
             <div class = "col-md-8 col-xs-12">
-                <!--Visible on portrait phone only and hidden on all-->
+                
                 <div class="card mb-3 d-block d-sm-none">
                     <img class="card-img-top" src = "{{ asset('images/annie_portrait.png') }}" alt="annie">
                     <div class="card-body">
@@ -226,10 +222,7 @@
                         <div class = "col-md-8">
                             <h6>Northridge Hospital Medical Center, Los Angeles</h6>
                             <p>Position: Student Nurse</p>
-                            <!-- <ul>
-                                <li>Job</li>
-                                <li>Job</li>
-                            </ul> -->
+                           
                         </div>
                         <div class = "col-md-4">
                             <div class = "float-right">
@@ -242,10 +235,7 @@
                         <div class = "col-md-10">
                             <h6>Kaiser Permanente West Los Angeles Medical Center, Los Angeles</h6>
                             <p>Position: Student Nurse</p>
-                            <!-- <ul>
-                                <li>Job</li>
-                                <li>Job</li>
-                            </ul> -->
+                            
                         </div>
                         <div class = "col-md-2">
                             <div class = "float-right">
@@ -258,10 +248,7 @@
                         <div class = "col-md-10">
                             <h6>Kaiser Permanente Panorama City Medical Center, Los Angeles</h6>
                             <p>Position: Student Nurse</p>
-                            <!-- <ul>
-                                <li>Job</li>
-                                <li>Job</li>
-                            </ul> -->
+                           
                         </div>
                         <div class = "col-md-2">
                             <div class = "float-right">
@@ -274,10 +261,7 @@
                         <div class = "col-md-10">
                             <h6>Motion Picture & Television Country House and Hospital, Los Angeles</h6>
                             <p>Position: Student Nurse</p>
-                            <!-- <ul>
-                                <li>Job</li>
-                                <li>Job</li>
-                            </ul> -->
+                            
                         </div>
                         <div class = "col-md-2">
                             <div class = "float-right">
@@ -289,10 +273,7 @@
                         <div class = "col-md-10">
                             <h6>Gateways Hospital and Mental Health Center, Los Angeles</h6>
                             <p>Position: Student Nurse</p>
-                            <!-- <ul>
-                                <li>Job</li>
-                                <li>Job</li>
-                            </ul> -->
+                
                         </div>
                         <div class = "col-md-2">
                             <div class = "float-right">
@@ -344,9 +325,9 @@
         
         
 
-    </div>
+    </div> -->
     
-    <footer class = "container-fluid">
+    <!-- <footer class = "container-fluid">
         <div class = "row justify-content-center carbon-background">
             <div class = "col-md-4 col-xs-4 text-center">
                 <p class = "tk-mr-eaves-xl-modern mt-4">
@@ -356,11 +337,11 @@
             
         </div>
         
-    </footer>
+    </footer> -->
     
     
-
-<script src = "{{ asset('js/main.js')}}"></script>
+    <div id="index"></div>
+    <script src = "{{ asset('js/app.js')}}"></script>
 
 </body>
 </html>
