@@ -9,4 +9,7 @@ require("./bootstrap");
 import React from "react";
 import ReactDOM from "react-dom";
 import Home from "../../assets/js/pages/Home";
+import "typeface-montserrat";
+import "typeface-merriweather";
+
 ReactDOM.render(<Home />, document.getElementById("index"));
