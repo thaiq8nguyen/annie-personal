@@ -70613,7 +70613,9 @@ var useStyles = Object(__WEBPACK_IMPORTED_MODULE_2__material_ui_core_styles__["a
 		},
 		toolbar: {
 			display: "flex",
-			justifyContent: "space-between"
+			justifyContent: "space-between",
+			background: "white",
+			color: "black"
 		},
 		toolbarTitle: {
 			fontFamily: "Montserrat"
@@ -70671,7 +70673,7 @@ var Home = function Home() {
 							" is a registered nurse at Los Angeles County + USC Medical Center.",
 							__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", null),
 							__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", null),
-							"She graduated from Los Angeles Valley Community College and Phoenix University with honors. To further helping her community and developing her nursing skils, she currently in a Nurse Practioner program.",
+							"She graduated from Los Angeles Valley Community College and Phoenix University with honors. To further helping her community and developing her nursing skils, she currently enrolling in a Nurse Practioner program.",
 							__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", null),
 							__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", null),
 							"While not working, Annie likes to cook and travel."
@@ -70706,7 +70708,10 @@ var Home = function Home() {
 					},
 					__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
 						__WEBPACK_IMPORTED_MODULE_1__material_ui_core__["g" /* Typography */],
-						{ variant: "subtitle1" },
+						{
+							variant: "subtitle1",
+							className: classes.intro
+						},
 						"Annie can be found online via:"
 					),
 					__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(

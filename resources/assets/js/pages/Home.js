@@ -19,7 +19,9 @@ const useStyles = makeStyles((theme) => ({
 	},
 	toolbar: {
 		display: "flex",
-		justifyContent: "space-between"
+		justifyContent: "space-between",
+		background: "white",
+		color: "black"
 	},
 	toolbarTitle: {
 		fontFamily: "Montserrat"
@@ -59,8 +61,8 @@ const Home = () => {
 								She graduated from Los Angeles Valley Community
 								College and Phoenix University with honors. To
 								further helping her community and developing her
-								nursing skils, she currently in a Nurse
-								Practioner program.
+								nursing skils, she currently enrolling in a
+								Nurse Practioner program.
 								<br />
 								<br />
 								While not working, Annie likes to cook and
@@ -88,7 +90,10 @@ const Home = () => {
 						xs={12}
 						style={{ order: 3, marginTop: "50px" }}
 					>
-						<Typography variant="subtitle1">
+						<Typography
+							variant="subtitle1"
+							className={classes.intro}
+						>
 							Annie can be found online via:
 						</Typography>
 						<Grid
